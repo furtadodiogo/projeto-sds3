@@ -1,10 +1,9 @@
 package com.devsuperior.dsvendas.dto;
 
 import com.devsuperior.dsvendas.entities.Sale;
-import lombok.Data;
-
 import java.io.Serializable;
 import java.time.LocalDate;
+import lombok.Data;
 
 @Data
 public class SaleDTO implements Serializable {

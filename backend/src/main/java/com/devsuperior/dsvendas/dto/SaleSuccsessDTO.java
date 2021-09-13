@@ -1,9 +1,8 @@
 package com.devsuperior.dsvendas.dto;
 
 import com.devsuperior.dsvendas.entities.Seller;
-import lombok.Data;
-
 import java.io.Serializable;
+import lombok.Data;
 
 @Data
 public class SaleSuccsessDTO implements Serializable {
